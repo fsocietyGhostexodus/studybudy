@@ -20,3 +20,8 @@ class UserForm(ModelForm):
     class Meta:
         model = User
         fields = ['avatar', 'name', 'username', 'email', 'bio']
+
+class Contact(ModelForm):
+    class Meta:
+        model = Contact
+        fields = [ 'name', 'username', 'email', 'text']
