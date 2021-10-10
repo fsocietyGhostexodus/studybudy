@@ -8,6 +8,7 @@
 
 --> Clone the repository using the command below :
 ```bash
+https://github.com/fsocietyGhostexodus/studybudy.git
 
 
 ```
