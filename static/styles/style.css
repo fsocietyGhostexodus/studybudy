@@ -12,6 +12,7 @@
   --color-bg: #2d2d39;
   --color-success: #5dd693;
   --color-error: #fc4b0b;
+
 }
 
 /*========== base styles ==========*/
@@ -28,7 +29,7 @@
 }
 
 html {
-  font-size: 56.25%;
+  font-size: 57.25%;
 }
 
 @media only screen and (min-width: 1200px) {
