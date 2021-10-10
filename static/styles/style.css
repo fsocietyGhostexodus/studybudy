@@ -732,7 +732,8 @@ a {
 ================================*/
 
 .activities {
-  background: var(--color-light);
+  background: var(--color-light
+  );
   border-radius: 6px;
   overflow: hidden;
 }
