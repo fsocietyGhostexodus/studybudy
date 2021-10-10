@@ -55,25 +55,6 @@ python manage.py runserver
 
 #
 
-### App Preview :
-
-<table width="100%"> 
-<tr>
-<td width="50%">      
-&nbsp; 
-<br>
-<p align="center">
-  Feed Home
-</p>
-
-</td> 
-<td width="50%">
-<br>
-<p align="center">
-  Room Conversation Preview
-</p>
-
-</table>
 
 
 # studybudy
