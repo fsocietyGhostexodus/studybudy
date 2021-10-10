@@ -67,7 +67,7 @@ a {
 .container {
   max-width: 120rem;
   width: 90%;
-  margin: auto;
+
 }
 
 .btn {
@@ -256,7 +256,7 @@ a {
   gap: 1rem;
 }
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 550px) {
   .mobile-menu {
     display: none;
   }
